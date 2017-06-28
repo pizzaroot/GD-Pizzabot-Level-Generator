@@ -1,2 +1,2 @@
-# GD-Pizzabot-Level-Generator
+# Pizzabot - Geometry Dash Level Generator
 Pizzabot that generates a Geometry Dash Level
